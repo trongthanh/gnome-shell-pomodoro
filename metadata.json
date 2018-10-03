@@ -1,0 +1,9 @@
+{
+  "name": "Pomodoro Timer",
+  "description": "Pomodoro timer for Gnome Shell",
+  "uuid": "pomodoro@int3ractive.com",
+  "shell-version": [
+    "3.28",
+    "3.30"
+  ]
+}
